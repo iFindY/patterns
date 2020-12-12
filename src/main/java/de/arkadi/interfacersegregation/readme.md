@@ -1,0 +1,4 @@
+- split interfaces by functionality which only needed by a type.
+- if a type fulfill severe functionaries implement several interfaces.
+- interfaces can extend each other if you need an explicit combination;
+- just combine small contracts.
